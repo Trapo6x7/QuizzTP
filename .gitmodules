@@ -1,3 +1,6 @@
 [submodule "Documents/FILROUGE/FILROUGEBACKEND"]
 	path = Documents/FILROUGE/FILROUGEBACKEND
 	url = https://github.com/Trapo6x7/BookMarketApi
+[submodule "Documents/FILROUGE/FILROUGEFRONTEND"]
+	path = Documents/FILROUGE/FILROUGEFRONTEND
+	url = https://github.com/Trapo6x7/FILROUGEFRONTEND
